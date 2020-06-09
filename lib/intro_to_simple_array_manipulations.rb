@@ -1,3 +1,3 @@
-def using.push(array, shift)
-  array << shift
+def using.push(array, string)
+  array << string
   
