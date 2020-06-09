@@ -1,2 +1,3 @@
-def using.push
+def using.push(array, shift)
+  
   
