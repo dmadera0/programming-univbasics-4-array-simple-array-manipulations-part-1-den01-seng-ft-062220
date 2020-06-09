@@ -1,12 +1,12 @@
-def using.push(array, string)
+def using_push(array, string)
   array << string
 end
 
-def using.unshift(array, string)
+def using_unshift(array, string)
   array.unshift
 end
 
-def using.pop(array)
+def using_pop(array)
   array.pop
 end
 
